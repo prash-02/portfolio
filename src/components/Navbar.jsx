@@ -48,7 +48,7 @@ export default function Navbar() {
             <Zap size={16} className="text-cyber-cyan" />
           </div>
           <span className="font-orbitron font-bold text-sm tracking-widest text-white group-hover:text-cyber-cyan transition-colors">
-            [YN]<span className="text-cyber-cyan">.</span>
+            Prash<span className="text-cyber-cyan">.</span>
           </span>
         </a>
 
