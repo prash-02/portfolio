@@ -1,4 +1,4 @@
-# ⚡ ECE Portfolio — [Your Name]
+# ⚡ ECE Portfolio — Prashant Kushwaha
 
 A modern, futuristic 3D portfolio website for an Electronics & Communication Engineering student (Class of 2027). Built with **React + Vite**, styled with **Tailwind CSS**, and powered by **Three.js** for immersive 3D effects.
 
@@ -88,7 +88,7 @@ Open `vite.config.js` and change the `base` value to match your repo name:
 // vite.config.js
 export default defineConfig({
   plugins: [react()],
-  base: '/my-portfolio/',  // ← Replace with your actual repo name
+  base: '/portfolio/',  // ← Replace with your actual repo name
   // ...
 })
 ```
@@ -102,7 +102,7 @@ export default defineConfig({
 ```json
 {
   "name": "ece-portfolio",
-  "homepage": "https://yourusername.github.io/my-portfolio",
+  "homepage": "https://prash-02.github.io/portfolio",
   ...
 }
 ```
@@ -116,7 +116,7 @@ git init
 git add .
 git commit -m "Initial portfolio commit"
 git branch -M main
-git remote add origin https://github.com/yourusername/my-portfolio.git
+git remote add origin https://github.com/prash-02/portfolio.git
 git push -u origin main
 ```
 
@@ -141,7 +141,7 @@ This runs `npm run build` then pushes the `dist/` folder to the `gh-pages` branc
 
 Your site will be live at:
 ```
-https://yourusername.github.io/my-portfolio/
+https://prash-02.github.io/portfolio/
 ```
 
 (May take 1–2 minutes to propagate the first time.)
@@ -154,18 +154,18 @@ Search for all placeholder strings and replace them:
 
 | Placeholder | Replace with |
 |---|---|
-| `[Your Name]` | Your full name |
-| `[Your Email]` | your@email.com |
-| `[Your GitHub]` | GitHub username |
-| `[Your LinkedIn]` | LinkedIn profile handle |
+| `[Your Name]` | Prashant Kushwaha |
+| `[Your Email]` | kushwaha7757@gmail.com |
+| `[Your GitHub]` | prash-02 |
+| `[Your LinkedIn]` | prashantkushwaha-ec |
 | `[Your College]` | Your college/university name |
-| `[Your City, Country]` | Your location |
+| `[Your City, Country]` | Gujarat, India |
 | `[Your Resume Link]` | Google Drive / Dropbox PDF link |
-| `[Project 1 Name]` | Your actual project title |
+| `[Project 1 Name]` | Smart Anti Theft System |
 | `[Internship Role / Title]` | Your internship job title |
 | `[Company Name]` | Company you interned at |
 | `[Hackathon / Competition Name]` | Hackathon you won/participated in |
-| `[Certification Name]` | Course/cert name |
+| `[Certification Name]` | Oracle certified Datascience Associate / CS50x |
 | `[X.XX]` | Your CGPA |
 
 ---
