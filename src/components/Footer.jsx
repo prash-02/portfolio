@@ -30,7 +30,7 @@ export default function Footer() {
                 <Zap size={16} className="text-cyber-cyan" />
               </div>
               <span className="font-orbitron font-bold text-white tracking-wider">
-                [Your Name]<span className="text-cyber-cyan">.</span>
+                Prashant Kushwaha<span className="text-cyber-cyan">.</span>
               </span>
             </div>
             <p className="text-slate-500 font-syne text-sm leading-relaxed max-w-xs">
